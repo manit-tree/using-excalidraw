@@ -14,6 +14,10 @@ https://using-excalidraw.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/596c80c3-7908-4b2b-8cb9-4743ecfd1e04)
 
+## vite.config.js
+
+![image](https://github.com/user-attachments/assets/db5abaee-23cd-4122-824f-804c0a18513c)
+
 ## app.jsx
 
 ![image](https://github.com/user-attachments/assets/80fbf917-b4b4-4061-8bf3-58306c838d4c)
