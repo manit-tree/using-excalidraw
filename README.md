@@ -1,18 +1,7 @@
-# vite-preact
-Development template for Preact Applicatioin
+# using-excalidraw
 
-## Setup
+Mini project for learning how to use Excalidraw
 
-git clone https://github.com/manit-tree/vite-preact.git [folder-name]
+## Screenshot
 
-## Folder Structure
-
-![image](https://github.com/user-attachments/assets/a36ddb37-b646-42b3-9881-06ccca5fa964)
-
-## package.json
-
-![image](https://github.com/user-attachments/assets/4ca74efc-346f-40ec-9d97-9b1cc389b550)
-
-## Author
-
-Mr.Manit Treeprapankit
+![image](https://github.com/user-attachments/assets/fc682651-9fba-4af8-93eb-379c40cc7b4c)
