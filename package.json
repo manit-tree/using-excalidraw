@@ -1,6 +1,6 @@
 {
-  "name": "vite-preact",
-  "description": "Development template for Preact Application",
+  "name": "using-excalidraw",
+  "description": "Mini Project for learning how to use excalidraw",
   "private": true,
   "version": "1.0.0",
   "type": "module",
