@@ -2,7 +2,7 @@
 
 Mini project for learning how to use Excalidraw
 
-# demo
+## Demo
 
 https://using-excalidraw.vercel.app/
 
